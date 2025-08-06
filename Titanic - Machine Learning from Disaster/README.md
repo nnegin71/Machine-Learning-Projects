@@ -1,12 +1,12 @@
 # Titanic - Machine Learning From Disaster
-Using Random Forest Classifier to predict survival status of Titanis passangers
+Using Random Forest Classifier to predict survival status of Titanic passangers
 
-This is one of the Kaggle competition projects, where some machine learning concepts such as train-test data split , one-hot encoding, and Random Forest tuning and evaluation are explored.
+This project is one of the Kaggle competition projects, where some machine learning concepts such as train-test data split , one-hot encoding, and Random Forest tuning and evaluation are explored.
 
-**#### Goal:**
+**Goal:**
 Predicting survival status of Titanic passangers.  
 
-**#### Data Source:**
+**Data Source:**
 https://www.kaggle.com
 
 #### Steps:
